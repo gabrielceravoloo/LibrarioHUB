@@ -17,7 +17,7 @@
         <h1>Bem-vindo ao Meu Site</h1>
     </header>
     <main>
-        <%- content %>
+        <%= content %>
     </main>
     <footer>
         <p>&copy; 2024 Gabriel Strider</p>
@@ -26,15 +26,3 @@
 </body>
 
 </html>
-
-<!-- ANOTAÇÕES -->
-<!--
-
-<%= ... %>: Esta notação é usada para escapar qualquer HTML e exibir o texto como está. 
-            Isso é útil quando você quer garantir que nenhum HTML malicioso seja interpretado pelo navegador.
-
-<%- ... %>: Esta notação é usada para renderizar o conteúdo como HTML. Ela não escapa as tags HTML, 
-            permitindo que elas sejam interpretadas corretamente pelo navegador. 
-
--->
-<!-- FIM -->
