@@ -3,13 +3,13 @@
 </p>
 
 
-![New Project Under Construction](http://img.shields.io/static/v1?label=STATUS&message=EM-DESENVOLVIMENTO&color=yellow&style=for-the-badge)
+![Status do Projeto](http://img.shields.io/static/v1?label=STATUS&message=EM-DESENVOLVIMENTO&color=yellow&style=for-the-badge)
 
 ### Descrição sobre o projeto
 
-O **LibrarioShort** é uma aplicação web projetada para facilitar o encontro de **Bibliotecas/Frameworks** com base no tipo de linguagens de programação desejada pelo usuario. A aplicação utiliza APIs para coletar e fornecer informações atualizadas e precisas, garantindo que você tenha sempre à disposição os dados mais relevantes.
+O **LibrarioHUB** é uma aplicação web projetada para facilitar o encontro de **Bibliotecas/Frameworks** com base no tipo de linguagens de programação desejada pelo usuario. A aplicação utiliza APIs para coletar e fornecer informações atualizadas e precisas, garantindo que você tenha sempre à disposição os dados mais relevantes.
 
-### **Com o LibrarioShort, cada entrada inclui:**
+### **Com o LibrarioHUB, cada entrada inclui:**
 
 - **Nome da Ferramenta:** Nome de Identificação da **biblioteca/framework**;
 - **Descrição:** Um resumo geral das funcionalidades e propósitos da **biblioteca/framework**;
